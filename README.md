@@ -1,4 +1,6 @@
 this repo will show you basic git workflow
 
 
-merge conflict line
+local edit for merge conflict
+
+

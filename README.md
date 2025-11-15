@@ -1,6 +1,6 @@
 this repo will show you basic git workflow
 
 
-local edit for merge conflict
 
+conflicting text frommaster branch
 
